@@ -7,8 +7,7 @@ This project is the part of Codebasics Resume Challenge 10
 - This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
 - Using Power BI, I have drive into the last 3 years' data to uncover key insights requested for primary analysis.
 
-𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸 - https://github.com/AditiShindadkar/Sports_Basics---IPL_Analysis/blob/main/Batsmen_Dashboard_Snapshort.png
-                 https://github.com/AditiShindadkar/Sports_Basics---IPL_Analysis/blob/main/Bowlers_Dashboard_Snapshort.png
+𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸 - https://github.com/AditiShindadkar/Sports_Basics---IPL_Analysis/blob/main/Dashboard_Snapshots.pdf
                  
                  
 
