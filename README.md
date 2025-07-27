@@ -24,6 +24,9 @@ This project is the part of Codebasics Resume Challenge 10
 ## Dashboard Link:
 - https://github.com/AditiShindadkar/Sports_Basics---IPL_Analysis/blob/main/Dashboard_Snapshots.pdf
 
+## Bowlers_Analysis:
+![WhatsApp Image 2025-07-28 at 01 08 48_c5eb9be4](https://github.com/user-attachments/assets/55a6f385-afc2-4d41-8a93-7b271cb8dca1)
+
 ## Team_Analysis:     
 ![WhatsApp Image 2025-07-28 at 01 08 47_53173148](https://github.com/user-attachments/assets/a30228c9-7e59-42c3-9afb-de2351f5a9ec)
 
